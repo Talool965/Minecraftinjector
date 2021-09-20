@@ -1,0 +1,21 @@
+C:\Users\MSI\Desktop\PleaseWork\obj\x64\Debug\Minecraft_DLL_Injector.Form1.resources
+C:\Users\MSI\Desktop\PleaseWork\obj\x64\Debug\Minecraft_DLL_Injector.FormSPACE.resources
+C:\Users\MSI\Desktop\PleaseWork\obj\x64\Debug\Minecraft advanced injector.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\PleaseWork\obj\x64\Debug\Minecraft advanced injector.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\PleaseWork\obj\x64\Debug\Minecraft_DLL_Injector.Properties.Resources.resources
+C:\Users\MSI\Desktop\PleaseWork\bin\Debug\Minecraft.injector.exe.config
+C:\Users\MSI\Desktop\PleaseWork\bin\Debug\Minecraft.injector.exe
+C:\Users\MSI\Desktop\PleaseWork\bin\Debug\Minecraft.injector.pdb
+C:\Users\MSI\Desktop\PleaseWork\obj\x64\Debug\Minecraft.injector.exe
+C:\Users\MSI\Desktop\PleaseWork\obj\x64\Debug\Minecraft.injector.pdb
+C:\Users\MSI\Desktop\PleaseWork\obj\x64\Debug\Minecraft advanced injector.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\PleaseWork\bin\Debug\Minecraft.injector.exe.config
+C:\Users\MSI\source\repos\PleaseWork\bin\Debug\Minecraft.injector.exe
+C:\Users\MSI\source\repos\PleaseWork\bin\Debug\Minecraft.injector.pdb
+C:\Users\MSI\source\repos\PleaseWork\obj\x64\Debug\Minecraft advanced injector.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\PleaseWork\obj\x64\Debug\Minecraft_DLL_Injector.Form1.resources
+C:\Users\MSI\source\repos\PleaseWork\obj\x64\Debug\Minecraft_DLL_Injector.Properties.Resources.resources
+C:\Users\MSI\source\repos\PleaseWork\obj\x64\Debug\Minecraft advanced injector.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\PleaseWork\obj\x64\Debug\Minecraft advanced injector.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\PleaseWork\obj\x64\Debug\Minecraft.injector.exe
+C:\Users\MSI\source\repos\PleaseWork\obj\x64\Debug\Minecraft.injector.pdb
